@@ -1,4 +1,4 @@
-// main.js
+// Usage
 
 const VehicleFactory = require('./VehicleFactory');
 
